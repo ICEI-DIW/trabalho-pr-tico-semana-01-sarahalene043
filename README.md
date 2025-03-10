@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: SARAH ALENE DE SOUZA 
+Matricula: 888461
 
 ## Tela de inspeção com navegador
+![image](https://github.com/user-attachments/assets/1ada03fd-5ecc-44e1-9d26-e175993f037c)
 
 
 ## Tela de projeto no Replit
-
+![image](https://github.com/user-attachments/assets/c285cffc-a819-40b4-9fa0-2aad2fb8dc71)
